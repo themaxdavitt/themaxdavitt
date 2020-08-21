@@ -1,4 +1,4 @@
-### Application Developer @ [Zips Esports](https://uakron.edu/esports/), Undergrad @ [UA](https://uakron.edu)
+### Application Developer @ [Zips Esports](https://uakron.edu/esports/), Undergrad @ [The University of Akron](https://uakron.edu)
 
 [![GitHub](https://img.shields.io/badge/-themaxdavitt--?color=transparent&logoColor=171515&style=flat-square&logo=github&link=https://github.com/themaxdavitt)](https://github.com/themaxdavitt) [![LinkedIn](https://img.shields.io/badge/-themaxdavitt--?color=transparent&logoColor=2867B2&style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/themaxdavitt/)](https://www.linkedin.com/in/themaxdavitt/) [![Twitter](https://img.shields.io/badge/-themaxdavitt--?color=transparent&style=flat-square&logo=twitter&link=https://twitter.com/themaxdavitt)](https://twitter.com/themaxdavitt)
 
