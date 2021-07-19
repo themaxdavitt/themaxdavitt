@@ -1,4 +1,8 @@
-### Application Developer & Creative Director @ [Zips Esports](https://uakron.edu/esports/), Undergrad @ [The University of Akron](https://uakron.edu)
+### Application Developer @ [Zips Esports](https://uakron.edu/esports/), Undergrad @ [The University of Akron](https://uakron.edu)
+
+**Previously: Creative Director @ [Zips Esports](https://uakron.edu/esports/)**
+
+Interested in way too many things, but most notably Rust and web development.
 
 [<img src="https://github.com/favicon.ico" width="16" height="16">](https://github.com/themaxdavitt)
 [<img src="https://linkedin.com/favicon.ico" width="16" height="16">](https://www.linkedin.com/in/themaxdavitt/)
