@@ -5,6 +5,7 @@
 Interested in way too many things, but most notably Rust and web development.
 
 [<img src="https://linkedin.com/favicon.ico" width="16" height="16">](https://www.linkedin.com/in/themaxdavitt/)
+[<img src="https://twitter.com/favicon.ico" width="16" height="16">](https://twitter.com/themaxdavitt)
 
 <!--
 **themaxdavitt/themaxdavitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
